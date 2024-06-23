@@ -1,0 +1,8 @@
+{
+    "matrix_size_x": 100, 
+    "matrix_size_y": 100,
+    "initial_point_x": 50, 
+    "initial_point_y": 50,
+    "initial_point_value": 100,
+    "sorting_criteria": "1234"   
+}
